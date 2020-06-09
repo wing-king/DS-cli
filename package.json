@@ -64,7 +64,6 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "markdown-toc": "^1.2.0",
     "qs": "^6.9.4",
     "vue": "^2.6.11",
     "vue-router": "^3.3.2",
