@@ -1,0 +1,14 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      "syntax-dynamic-import",
+      {
+        "useBuiltIns": "usage",
+        "targets": {
+          "browsers": ["last 2 versions", "ie >= 10"]
+        }
+      }
+    ]
+  ]
+}
